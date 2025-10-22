@@ -1,0 +1,12 @@
+city_backend/
+├── app/
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── database.py
+│   ├── crud.py
+│   └── routers/
+│       └── city.py
+├── alembic/ (for migrations)
+├── requirements.txt
+└── .env
